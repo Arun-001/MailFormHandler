@@ -8,9 +8,3 @@ ContactMailer is a simple PHP application that allows users to send emails throu
 - Sends emails using SMTP
 - Input validation and error handling
 - Responsive design
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ContactMailer.git
